@@ -38,39 +38,39 @@ The dataset contains three files :
 Here is part of the Documents raw text :
 
 <div display=flex align=center>
-  <img src="/Pictures/4.PNG"/>
+  <img src="/Pictures/4.PNG" width="400px"/>
 </div>
 
 Here is part of the Queries raw text :
 
 <div display=flex align=center>
-  <img src="/Pictures/5.PNG"/>
+  <img src="/Pictures/5.PNG" width="400px"/>
 </div>
 
 Here is part of the Real Result raw text :
 
 <div display=flex align=center>
-  <img src="/Pictures/6.PNG"/>
+  <img src="/Pictures/6.PNG" width="400px"/>
 </div>
 
 Here is part of the Documents frame :
 
 <div display=flex align=center>
-  <img src="/Pictures/1.PNG"/>
+  <img src="/Pictures/1.PNG" width="400px"/>
 </div>
 
 
 Here is part of the Queries frame :
 
 <div display=flex align=center>
-  <img src="/Pictures/2.PNG"/>
+  <img src="/Pictures/2.PNG" width="400px"/>
 </div>
 
 
 Here is part of the Real Result frame :
 
 <div display=flex align=center>
-  <img src="/Pictures/3.PNG"/>
+  <img src="/Pictures/3.PNG" width="400px"/>
 </div>
 
 
