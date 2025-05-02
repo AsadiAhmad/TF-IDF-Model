@@ -97,6 +97,9 @@ Here is part of the Real Result frame :
 - Calculate stop and steⅿⅿing words
 - Remove stop and steⅿⅿing words
 
+<div display=flex align=center>
+  <img src="/Pictures/8.PNG" width="600px"/>
+</div>
 
 ## Result
 
