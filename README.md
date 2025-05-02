@@ -46,7 +46,7 @@ Result : [![Static Badge](https://img.shields.io/badge/Result-red?style=for-the-
 
 or Download the raw dataset :
 
-Raw Dataset : [![Static Badge](https://img.shields.io/badge/Result-red?style=for-the-badge&logo=databricks&labelColor=fcfbd4)](https://ir.dcs.gla.ac.uk/resources/test_collections/lisa/)
+Raw Dataset : [![Static Badge](https://img.shields.io/badge/Raw-red?style=for-the-badge&logo=databricks&labelColor=fcfbd4)](https://ir.dcs.gla.ac.uk/resources/test_collections/lisa/)
 
 ### Frames of Dataset
 Here is part of the Documents raw text :
