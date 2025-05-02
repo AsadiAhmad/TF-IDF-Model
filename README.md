@@ -87,6 +87,16 @@ Here is part of the Real Result frame :
   <img src="/Pictures/3.PNG" width="600px"/>
 </div>
 
+## PreProcess
+
+- Clear garbage charachters and digits
+- Lower all alphabet charachters
+- Tokenization
+- Word Counting
+- Show Zipf Law
+- Calculate stop and steⅿⅿing words
+- Remove stop and steⅿⅿing words
+
 
 ## Result
 
