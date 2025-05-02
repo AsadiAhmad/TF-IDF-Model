@@ -27,6 +27,53 @@ Retrieve Information from Text Documents with TF-IDF model and dimention reducti
 
 You can easily run this code on google colab by just clicking this badge [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsadiAhmad/TF-IDF-Model/blob/main/Code/TF_IDF.ipynb)
 
+## Dataset
+
+The dataset contains three files :
+
+- Documents.txt (Documents are stored here)
+- Queries.txt (Queries are stored here)
+- Result.txt (Real related results are stored here)
+
+Here is part of the Documents raw text :
+
+<div display=flex align=center>
+  <img src="/Pictures/4.PNG"/>
+</div>
+
+Here is part of the Queries raw text :
+
+<div display=flex align=center>
+  <img src="/Pictures/5.PNG"/>
+</div>
+
+Here is part of the Real Result raw text :
+
+<div display=flex align=center>
+  <img src="/Pictures/6.PNG"/>
+</div>
+
+Here is part of the Documents frame :
+
+<div display=flex align=center>
+  <img src="/Pictures/1.PNG"/>
+</div>
+
+
+Here is part of the Queries frame :
+
+<div display=flex align=center>
+  <img src="/Pictures/2.PNG"/>
+</div>
+
+
+Here is part of the Real Result frame :
+
+<div display=flex align=center>
+  <img src="/Pictures/3.PNG"/>
+</div>
+
+
 ## License
 
 This project is licensed under the MIT License.
