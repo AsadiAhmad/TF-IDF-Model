@@ -91,7 +91,7 @@ Here is part of the Real Result frame :
 ## Result
 
 <div display=flex align=center>
-  <img src="/Pictures/7.PNG" width="600px"/>
+  <img src="/Pictures/7.png" width="600px"/>
 </div>
 
 ## License
