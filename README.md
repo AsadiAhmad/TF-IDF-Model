@@ -88,6 +88,12 @@ Here is part of the Real Result frame :
 </div>
 
 
+## Result
+
+<div display=flex align=center>
+  <img src="/Pictures/7.PNG" width="600px"/>
+</div>
+
 ## License
 
 This project is licensed under the MIT License.
