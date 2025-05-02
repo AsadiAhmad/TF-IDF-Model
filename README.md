@@ -29,12 +29,26 @@ You can easily run this code on google colab by just clicking this badge [![Open
 
 ## Dataset
 
-The dataset contains three files :
+This dataset named `LISA` and i modified them into three files (easy for working) :
 
 - Documents.txt (Documents are stored here)
 - Queries.txt (Queries are stored here)
 - Result.txt (Real related results are stored here)
 
+### Download Dataset
+you can use this modified Dataset with clicking this badges :
+
+Documents : [![Static Badge](https://img.shields.io/badge/Documents-red?style=for-the-badge&logo=databricks&labelColor=fcfbd4)](https://github.com/AsadiAhmad/TF-IDF-Model/blob/main/Dataset/Documents.txt)
+
+Queries : [![Static Badge](https://img.shields.io/badge/Queries-red?style=for-the-badge&logo=databricks&labelColor=fcfbd4)](https://github.com/AsadiAhmad/TF-IDF-Model/blob/main/Dataset/Queries.txt)
+
+Result : [![Static Badge](https://img.shields.io/badge/Result-red?style=for-the-badge&logo=databricks&labelColor=fcfbd4)](https://github.com/AsadiAhmad/TF-IDF-Model/blob/main/Dataset/Result.txt)
+
+or Download the raw dataset :
+
+Raw Dataset : [![Static Badge](https://img.shields.io/badge/Result-red?style=for-the-badge&logo=databricks&labelColor=fcfbd4)](https://ir.dcs.gla.ac.uk/resources/test_collections/lisa/)
+
+### Frames of Dataset
 Here is part of the Documents raw text :
 
 <div display=flex align=center>
