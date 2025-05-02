@@ -22,3 +22,7 @@ Retrieve Information from Text Documents with TF-IDF model and dimention reducti
 - Numpy : Best Library for working with arrays in python
 - MatPlotLib : Library for showing the charts in python
 - Scikit-learn : Essential ML toolkit for training and evaluating models
+
+## Run the Notebook on Google Colab
+
+You can easily run this code on google colab by just clicking this badge [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsadiAhmad/TF-IDF-Model/blob/main/Code/TF_IDF.ipynb)
